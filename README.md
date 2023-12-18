@@ -80,3 +80,7 @@ Cumulative calculations are concerned with the total number or amounts meas‐
 ured at one or more fixed time windows, regardless of when they happened dur‐
 ing that window. Cumulative calculations are often used in calculations of 
 customer lifetime value (LTV or CLTV).
+
+# Upload you result to tablue
+![Screenshot 2023-12-18 185510](https://github.com/Mario-farouk/Cohort_Analysis/assets/136117708/d1a09a44-71fb-4fe9-96b2-c76368101d4c)
+
